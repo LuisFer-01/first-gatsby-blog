@@ -1,0 +1,6 @@
+npx gatsby new gatsby-blog
+npm install gatsby-transformer-remark
+npm install gatsby-remark-reading-time --force
+npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components --force
+npm install gatsby-plugin-react-helmet react-helmet --force
+npm install graphql --force
